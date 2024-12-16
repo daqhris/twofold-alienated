@@ -7,6 +7,8 @@
 - Smart Contract: [0x2193Ddd4D64bAd38c7bd523090F333f425560A72](https://basescan.org/address/0x2193ddd4d64bad38c7bd523090f333f425560a72)  
 - Source Code: https://basescan.org/address/0x2193ddd4d64bad38c7bd523090f333f425560a72#code
 - Contract Creation: https://basescan.org/tx/0xd214b035d4bf462bdffc1bdacc4b6b3bef43e135a3a7d239f9da82c70a53c228
+- Contract Name: [ALIEN](https://basescan.org/address/0x2193ddd4d64bad38c7bd523090f333f425560a72#code#F1#L1)
+- Token Standard: ERC-721
 - Publication Time: Oct-10-2024 08:02:23 PM +UTC
 - Hosting Blockchain: BASE
 
