@@ -1,7 +1,7 @@
 # Twofold Alienated
 
-### AI-inspired Short Story. 
-#### Written on October 10, 2024. Published on Base blockchain. 
+### Short Story. 
+#### Written on October 10, 2024 & Published on Base blockchain. 
 
 - Original Link: https://app.manifold.xyz/txt/twofold-alienated  
 - Arweave Link: https://53iaekjtziexc3xixx3ssv5vx3mqfpx7ibsypapjtrho7j3l2v5q.arweave.net/7tACKTPKCXFu6L33KVe1vtkCvv9AZYeB6ZxO76dr1Xs/  
