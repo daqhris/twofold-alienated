@@ -12,6 +12,6 @@
 - Token Standard: ERC-721
 - Publication Time: Oct-10-2024 08:02:23 PM +UTC
 - Hosting Blockchain: BASE
-- Blockchain Block: [#20900598](https://basescan.org/block/20900598)
+- Blockchain Block: [20900598](https://basescan.org/block/20900598)
 
 **Copyleft © 2024 [daqhris](https://daqhris.com)**
